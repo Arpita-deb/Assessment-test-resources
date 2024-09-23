@@ -32,16 +32,27 @@ Here are a few of the most popular publishers used in the UK:
 # Some handy Tips:
 
 1. **Understand the Test Format:** Familiarize yourself with the test format and the types of questions you are likely to encounter. There are various aptitude tests, such as numerical, verbal, abstract reasoning, and logical reasoning. Knowing the structure of the test will help you focus your preparation effectively.
+
 2. **Practice Sample Questions:** Many online resources offer sample aptitude test questions. Practice regularly to build familiarity with the question types and improve your speed and accuracy. Work on a wide range of questions to cover various difficulty levels.
+
 3. **Time Management:** Aptitude tests are often timed, so practice answering questions within the given time constraints. Learn to manage your time efficiently to complete as many questions as possible within the allocated time. Don't linger on one problem too long. Skip it or choose an approximate answer and move on.
+
 4. **Brush Up on Basic Skills:** Review basic math concepts (for numerical tests), grammar and vocabulary (for verbal tests), and logical reasoning principles. Strengthening your foundation in these areas will boost your performance in the test.
+
 5. If there's no negative markings, try to attempt all questions.
+
 6. Try to do most of the math in your head.
-7. When solving abstract/logical reasoning problems, look for repetitive patterns, symmetry and a flow of movement among the objects.Figure out the answer in your head firt, then look at the options.
+
+7. When solving abstract/logical reasoning problems, look for repetitive patterns, symmetry and a flow of movement among the objects. Figure out the answer in your head first, then look at the options.
+
 8. When solving analogy questions (e.g., 'trees to leaves are as __ to __'), look for functionality between the objects.
+
 9. While solving for comprehension questions, don't read the entire passage, read the questions first and look for keywords in the passage and figure out the answer.
+
 10. Try not to make any assumptions while solving comprehension questions, stick to the information provided in the passage.
+
 11. Answer the easy questions first.
+
 12. Practice, practice, practice !
 
 # Sites:
